@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer Nitro 5\\Desktop\\C\u002B\u002B\\Asg1-LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB22577B-DE4D-40E1-B5E5-23D40C6E896D}|Asg1-LinkedList\\Asg1-LinkedList.vcxproj|F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB22577B-DE4D-40E1-B5E5-23D40C6E896D}|Asg1-LinkedList\\Asg1-LinkedList.vcxproj|F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB22577B-DE4D-40E1-B5E5-23D40C6E896D}|Asg1-LinkedList\\Asg1-LinkedList.vcxproj|F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.cpp",
+              "DocumentMoniker": "F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\app.cpp",
+              "ToolTip": "F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\app.cpp",
+              "ViewState": "AgIAAF8CAAAAAAAAAAAxwGgCAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T05:56:00.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cpp",
+              "DocumentMoniker": "F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\Subject.cpp",
+              "ToolTip": "F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\Subject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T06:14:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\Exam.cpp",
+              "ToolTip": "F:\\Degree\\Y1S3\\UCCD1024 Data Structure and Algorithmic Problem Solving\\SooJiaSheng \u0026 Chang Jia Hui\\Exam.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAxwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T05:56:35.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

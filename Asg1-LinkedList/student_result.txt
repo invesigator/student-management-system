@@ -1,0 +1,241 @@
+
+
+Name: Albert Tom
+Id: 1804336
+Course: CT
+Phone No: 791-0101
+Current CGPA: 3.66714
+Total Credits Earned: 28
+
+
+May 2018 Exam Results: 
+
+1 subjects taken.
+--------------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                                Credit Hours     Grade Grade Point
+--------------------------------------------------------------------------------------------------------------
+UCCD1133        INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE                 4         A     4.00000
+GPA: 4.00000
+
+
+
+Oct 2018 Exam Results: 
+
+2 subjects taken.
+----------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                            Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------
+UCCD1143        PROBABILITY_AND_STATISTIC_FOR_COMPUTING                            4        A+     4.00000
+UCCM1153        INTRODUCTION_OF_CALCULUS_AND_APPLICATION                           4        A-     3.67000
+GPA: 3.83500
+
+
+
+Jan 2019 Exam Results: 
+
+4 subjects taken.
+----------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                            Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------
+UCCD1013        ANALYSIS_AND_DESIGN_OF_INFORMATION_SYSTEM                          4         A     4.00000
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                    4        A-     3.67000
+UCCN1004        DATA_COMMUNICATIONS_AND_NETWORKING                                 4        B+     3.33000
+UCCM1153        INTRODUCTION_OF_CALCULUS_AND_APPLICATION                           4         B     3.00000
+GPA: 3.50000
+
+
+
+Name: Ben Affleck
+Id: 1201237
+Course: IA
+Phone No: 432-4579
+Current CGPA: 3.09857
+Total Credits Earned: 7
+
+
+May 2012 Exam Results: 
+
+2 subjects taken.
+----------------------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                                        Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------------------
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                                4        B-     2.67000
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING                 3        A-     3.67000
+GPA: 3.09857
+
+
+
+Name: Benedict Wong
+Id: 1403569
+Course: CT
+Phone No: 666-2457
+Current CGPA: 0.00000
+Total Credits Earned: 0
+THIS STUDENT HAVEN'T TAKEN ANY EXAM YET
+
+
+Name: Janice Lim Kah Yen
+Id: 1907692
+Course: CS
+Phone No: 433-9723
+Current CGPA: 4.00000
+Total Credits Earned: 31
+
+
+Jan 2019 Exam Results: 
+
+3 subjects taken.
+----------------------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                                        Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------------------
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                                4        A+     4.00000
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING                 3        A+     4.00000
+UCCM1153        INTRODUCTION_OF_CALCULUS_AND_APPLICATION                                       4         A     4.00000
+GPA: 4.00000
+
+
+
+May 2019 Exam Results: 
+
+4 subjects taken.
+----------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                            Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------
+UCCM1363        DISCRETE_MATHEMATICS                                               4         A     4.00000
+UCCD1143        PROBABILITY_AND_STATISTIC_FOR_COMPUTING                            4        A+     4.00000
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                    4         A     4.00000
+UCCN1223        CYBERSECURITY                                                      4         A     4.00000
+GPA: 4.00000
+
+
+
+Oct 2019 Exam Results: 
+
+1 subjects taken.
+----------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                            Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------
+UCCN1004        DATA_COMMUNICATIONS_AND_NETWORKING                                 4         A     4.00000
+GPA: 4.00000
+
+
+
+Name: Jason Ooi
+Id: 2103535
+Course: CN
+Phone No: 433-2122
+Current CGPA: 4.00000
+Total Credits Earned: 8
+
+
+May 2021 Exam Results: 
+
+2 subjects taken.
+----------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                            Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                    4         A     4.00000
+UCCN1223        CYBERSECURITY                                                      4        A+     4.00000
+GPA: 4.00000
+
+
+
+Name: Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Current CGPA: 3.23786
+Total Credits Earned: 14
+
+
+Jan 2013 Exam Results: 
+
+3 subjects taken.
+----------------------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                                        Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------------------
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                                4        B+     3.33000
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                                4         B     3.00000
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING                 3        A-     3.67000
+GPA: 3.30273
+
+
+
+May 2012 Exam Results: 
+
+1 subjects taken.
+----------------------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                                        Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------------------
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING                 3         B     3.00000
+GPA: 3.00000
+
+
+
+Name: Salma Hayek
+Id: 1300899
+Course: IB
+Phone No: 790-0000
+Current CGPA: 3.66500
+Total Credits Earned: 8
+
+
+Oct 2012 Exam Results: 
+
+2 subjects taken.
+----------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                            Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                    4        B+     3.33000
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                    4         A     4.00000
+GPA: 3.66500
+
+
+
+Name: Wong Siu Peng
+Id: 2003569
+Course: CS
+Phone No: 666-2111
+Current CGPA: 3.94500
+Total Credits Earned: 42
+
+
+Jan 2020 Exam Results: 
+
+5 subjects taken.
+----------------------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                                        Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------------------
+UCCD1203        DATABASE_APPLICATION_AND_DEVELOPMENT                                           3        A+     4.00000
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                                4         A     4.00000
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                                4        A+     4.00000
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING                 3        A-     3.67000
+UCCM1353        BASIC_ALGEBRA                                                                  4        A+     4.00000
+GPA: 3.94500
+
+
+
+May 2020 Exam Results: 
+
+5 subjects taken.
+--------------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                                Credit Hours     Grade Grade Point
+--------------------------------------------------------------------------------------------------------------
+UCCD1013        ANALYSIS_AND_DESIGN_OF_INFORMATION_SYSTEM                              4        A-     3.67000
+UCCM1363        DISCRETE_MATHEMATICS                                                   4         A     4.00000
+UCCN1223        CYBERSECURITY                                                          4        A+     4.00000
+UCCD1133        INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE                 4        A+     4.00000
+UCCM1153        INTRODUCTION_OF_CALCULUS_AND_APPLICATION                               4        A+     4.00000
+GPA: 3.93400
+
+
+
+Oct 2020 Exam Results: 
+
+1 subjects taken.
+----------------------------------------------------------------------------------------------------------
+Subject Code    Subject Name                                            Credit Hours     Grade Grade Point
+----------------------------------------------------------------------------------------------------------
+UCCD1143        PROBABILITY_AND_STATISTIC_FOR_COMPUTING                            4         A     4.00000
+GPA: 4.00000
+
